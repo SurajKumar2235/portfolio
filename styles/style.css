@@ -8,8 +8,10 @@ body {
 
 
 header {
-    background: url('/images/page_image/white-ing.jpg') no-repeat center center;
-    background-size: cover;
+    /* background: url('/images/page_image/white-ing.jpg') no-repeat center center; */
+    background: url('https://github.com/SurajKumar2235/portfolio/raw/main/images/page_image/white-ing.jpg') no-repeat center center;
+
+    background-size:auto;
     padding: 50px 0;
     text-align: center;
     height: 200%;;
