@@ -8,7 +8,7 @@ body {
 
 
 header {
-    background: url('images/page_image/stats.png') no-repeat center center;
+    background: url('/images/page_image/stats.png') no-repeat center center;
     background-size: cover;
     color: #bedef1;
     padding: 50px 0;
